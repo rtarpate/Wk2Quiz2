@@ -32,7 +32,7 @@ namespace Quiz2
             Console.WriteLine(" hyptnuse legnght is: " +  hyptnusePart2);
 
             //gives user enought time to read results
-            Console.ReadLine("Press any key to end program");
+            Console.ReadLine("Press any key to end program ");
 
         }
     }
